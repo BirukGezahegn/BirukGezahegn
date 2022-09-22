@@ -1,8 +1,8 @@
 <!--<h3 align="center">
-![image](https://https://github.com/BirukGezahegn/BirukGezahegn/blob/main/hello%20world.png)
+![image](https://github.com/BirukGezahegn/BirukGezahegn/blob/main/hello%20world.png)
 </h3> -->
 
-[![160744959694494596](https://https://github.com/BirukGezahegn/BirukGezahegn/blob/main/hello%20world.png)](https://github.com/BirukGezahegn?tab=repositories)
+[![160744959694494596](https://github.com/BirukGezahegn/BirukGezahegn/blob/main/hello%20world.png)](https://github.com/BirukGezahegn?tab=repositories)
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
