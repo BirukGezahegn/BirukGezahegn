@@ -1,8 +1,8 @@
 <!--<h3 align="center">
-![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
+![image](https://https://github.com/BirukGezahegn/BirukGezahegn/blob/main/hello%20world.png)
 </h3> -->
 
-[![160744959694494596](https://user-images.githubusercontent.com/6764957/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png)](https://github.com/sw-yx?tab=repositories)
+[![160744959694494596](https://https://github.com/BirukGezahegn/BirukGezahegn/blob/main/hello%20world.png)](https://github.com/BirukGezahegn?tab=repositories)
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
