@@ -10,7 +10,7 @@
   <a href="https://twitter.com/intent/follow?screen_name=birukgez">Twitter</a> •
   <a href="https://www.linkedin.com/in/biruk-gezahegn-0a4741182/">Linkedin</a> •
   <a href="https://www.facebook.com/biruk.gez">Facebook</a> •
-  
+   <a href="https://t.me/birukGezz">Telegram</a>
 </p>
 
 ---
